@@ -1,5 +1,3 @@
-<img width="1416" height="738" alt="image" src="https://github.com/user-attachments/assets/b346c367-7b2b-4970-a492-3fa6f19a6ec6" /># 
-
 🏠 Global Airbnb Performance Dashboard
 
 An interactive Power BI dashboard that analyzes Airbnb's growth, market share, pricing, guest ratings, review behavior and host trust across 10 major global cities.
