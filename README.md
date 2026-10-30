@@ -156,10 +156,15 @@ These drive the four circles in the Trust shield.
 ## 🖼️ Dashboard Screenshots
 
 1) Overview
+   
    <img width="1416" height="738" alt="image" src="https://github.com/user-attachments/assets/0453f9bf-0d57-4828-aaaf-0488f8683b32" />
-2) Market, Pricing and Ratings
+   
+3) Market, Pricing and Ratings
+   
    <img width="1116" height="756" alt="image" src="https://github.com/user-attachments/assets/414a9bab-a80c-4902-be6d-7fb59c8457ff" />
-3) Reviews and Trust
+   
+5) Reviews and Trust
+   
    <img width="1266" height="747" alt="image" src="https://github.com/user-attachments/assets/8342bcf0-22d9-4b41-bae4-d2b2f71b0e46" />
 
 ## 💡 Recommendations
